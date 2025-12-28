@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pihole on Raspberry Pi
+title: Pi-hole on Raspberry Pi Zero
 date: '2025-12-26 17:10:00'
 ---
 
