@@ -30,7 +30,7 @@ Once DietPi is running and you have SSH access:
 - **Install Command**: Run `curl -sSL https://install.pi-hole.net | bash`.
 - **Configuration**: During installation, assign a **static IP** to your Pi to ensure consistent DNS routing.
 
-### DNS Configuration
+### 4.1 DNS Configuration
 
 It is critical to set a **static IP address** for the Raspberry Pi Zero 2W so its address doesn't change. You must also configure your network to use Pi-hole for DNS.
 
