@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pi-hole on Raspberry Pi
+title: Block Ads Anywhere You Go
 date: '2025-12-26 17:10:00'
 ---
 
