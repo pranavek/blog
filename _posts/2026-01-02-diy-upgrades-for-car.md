@@ -9,9 +9,9 @@ date: '2026-01-02 13:46:00'
 Your reliable older car doesn't have to feel like a relic. By combining affordable hardware with powerful open-source projects, you can bridge the technology gap—adding modern essentials like seamless wireless connectivity and precise location tracking without the premium price tag.
 
 ## Prerequisites
-Raspberry Pi Zero 2 W
-Micro SD card (Minimum 8GB)
-ESP32 (Check compatibility details on the project page)
+- Raspberry Pi Zero 2 W
+- Micro SD card (Minimum 8GB)
+- ESP32 (Check compatibility details on the project page)
 
 ## 1. Wireless Android Auto
 Most older vehicles require a wired connection for Android Auto, which is cumbersome and prone to cable failure. While commercial dongles exist, they often become obsolete after software updates. By using an open-source solution like [WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle), you gain full control over the hardware, ensuring your car stays connected even as mobile OS versions evolve.
