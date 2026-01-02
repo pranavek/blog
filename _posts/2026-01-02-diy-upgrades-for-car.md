@@ -10,9 +10,10 @@ Your reliable older car doesn't have to feel like a relic. By combining affordab
 
 ## Prerequisites
 Raspberry Pi Zero 2 W
+Micro SD card (Minimum 8GB)
 ESP32 (Check compatibility details on the project page)
 
-## 1. Reliable Wireless Android Auto
+## 1. Wireless Android Auto
 Most older vehicles require a wired connection for Android Auto, which is cumbersome and prone to cable failure. While commercial dongles exist, they often become obsolete after software updates. By using an open-source solution like [WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle), you gain full control over the hardware, ensuring your car stays connected even as mobile OS versions evolve.
 
 ### High-level setup
